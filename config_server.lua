@@ -8,5 +8,5 @@ server_config = {
     SonoranCAD_CommunityID = "",
     SonoranCAD_APIKey = "",
 
-    useKVP = false
+    useKVP = true
 }
